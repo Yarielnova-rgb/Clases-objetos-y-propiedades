@@ -1,9 +1,15 @@
 Control de inventario de TecnoPunto
-Datos del autor
+
+Datos del autor 
+
 Nombre: Yariel Israel Nova Moreta
+
 Matrícula: 2025
+
 Asignatura: Programación Básica
+
 Profesor: Gamalier Reyes del Carmen
+
 Descripción del programa
 
 Aplicación de consola en C# que registra productos de la tienda TecnoPunto y muestra su información de forma confiable. Utiliza la clase Producto, cuyas propiedades validan los datos para evitar precios negativos, cantidades inválidas y productos sin nombre. Cada producto calcula por sí mismo el valor total que tiene en existencia.
